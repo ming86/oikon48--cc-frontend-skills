@@ -1,5 +1,7 @@
 # Frontend Skills Plugin
 
+NOTE: **This Skills is for demonstrating Claude SKills with Claude Code.**
+
 A Claude Code plugin for creating distinctive, production-grade frontend UIs that avoid generic "AI slop" aesthetics.
 
 ## Features
