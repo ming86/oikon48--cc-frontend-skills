@@ -41,11 +41,7 @@ A Claude Code plugin for creating distinctive, production-grade frontend UIs tha
 Simply make frontend-related requests and the design skill will be applied automatically:
 
 ```text
-Create a landing page for my SaaS product
-```
-
-```text
-Design a dashboard for a music streaming app
+Build me a flight lookup nextjs web app where the user can put in a flight number and the app gives you the start time, end time, time zones, start location, and end location of the flight. For now, use a mock API that returns a list of matching flights. Display the search results under the form input. use @frontend-design-system-implementor , ultrathink
 ```
 
 ## Theme Examples
